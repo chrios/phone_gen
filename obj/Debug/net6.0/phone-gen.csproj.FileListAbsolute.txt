@@ -1,0 +1,15 @@
+/home/christopher/src/phone-gen/bin/Debug/net6.0/phone-gen
+/home/christopher/src/phone-gen/bin/Debug/net6.0/phone-gen.deps.json
+/home/christopher/src/phone-gen/bin/Debug/net6.0/phone-gen.runtimeconfig.json
+/home/christopher/src/phone-gen/bin/Debug/net6.0/phone-gen.dll
+/home/christopher/src/phone-gen/bin/Debug/net6.0/phone-gen.pdb
+/home/christopher/src/phone-gen/obj/Debug/net6.0/phone-gen.csproj.AssemblyReference.cache
+/home/christopher/src/phone-gen/obj/Debug/net6.0/phone-gen.GeneratedMSBuildEditorConfig.editorconfig
+/home/christopher/src/phone-gen/obj/Debug/net6.0/phone-gen.AssemblyInfoInputs.cache
+/home/christopher/src/phone-gen/obj/Debug/net6.0/phone-gen.AssemblyInfo.cs
+/home/christopher/src/phone-gen/obj/Debug/net6.0/phone-gen.csproj.CoreCompileInputs.cache
+/home/christopher/src/phone-gen/obj/Debug/net6.0/phone-gen.dll
+/home/christopher/src/phone-gen/obj/Debug/net6.0/refint/phone-gen.dll
+/home/christopher/src/phone-gen/obj/Debug/net6.0/phone-gen.pdb
+/home/christopher/src/phone-gen/obj/Debug/net6.0/phone-gen.genruntimeconfig.cache
+/home/christopher/src/phone-gen/obj/Debug/net6.0/ref/phone-gen.dll
